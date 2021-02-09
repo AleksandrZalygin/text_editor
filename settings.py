@@ -1,0 +1,4 @@
+APP_NAME='WriteYourText'
+
+WIDTH=1000
+HEIGHT=650
